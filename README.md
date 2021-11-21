@@ -2,4 +2,4 @@
 My name is Blobcode and I'm a student and casual dev
 
 
-- 🌱 I’m currently learning rust as well as c! 🦀
+- 🦀 I’m currently learning rust and c++!

@@ -11,3 +11,5 @@ I'm skilled in
 - rust, js (react, vue, nodejs), c, python
 - linux 
 - networking
+
+If you'd like to get into contact with me, shoot me an email at `hello (at) blobco.de`

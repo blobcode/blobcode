@@ -1,5 +1,5 @@
 ## hi there 👋
-My name is Blobcode and I'm a student and casual dev.
+My name is Lucas and I'm a student at UofT and casual dev.
 
 About me
 - I’m currently learning go and erlang!

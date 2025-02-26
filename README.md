@@ -1,15 +1,14 @@
 ## hi there 👋
-My name is Lucas and I'm a student at UofT and casual dev.
+My name is Lucas and I'm a studying CS at UofT.
 
 About me
-- I’m currently learning go and erlang!
+- I’m currently learning go and erlang
 - I have a passion for devops / infra
-- I like nixos and terraform
+- I like nixos!
 
 
 I'm skilled in
-- rust, js (react, vue, nodejs), c, python
+- rust, js (react, vue, nodejs), c++, python
+- embedded hardware
 - linux 
 - networking
-
-If you'd like to get into contact with me, shoot me an email at `hello (at) blobcode.net`

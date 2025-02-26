@@ -12,4 +12,4 @@ I'm skilled in
 - linux 
 - networking
 
-If you'd like to get into contact with me, shoot me an email at `hello (at) blobco.de`
+If you'd like to get into contact with me, shoot me an email at `hello (at) blobcode.net`

@@ -8,7 +8,7 @@ About me
 
 
 I'm skilled in
-- rust, js (react, vue, nodejs), c++, python
+- rust, js (react/nextJS, nodejs), c++, python, java
 - embedded hardware
 - linux 
 - networking

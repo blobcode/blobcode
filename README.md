@@ -1,5 +1,5 @@
 ## hi there
-My name is Lucas and I'm a studying CS at UofT.
+My name is Lucas and I'm a student studying CS at UofT.
 
 About me
 - I’m currently learning go and erlang

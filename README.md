@@ -1,4 +1,4 @@
-## hi there 👋
+## hi there
 My name is Lucas and I'm a studying CS at UofT.
 
 About me
